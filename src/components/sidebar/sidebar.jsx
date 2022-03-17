@@ -42,7 +42,51 @@ export default function sidebar() {
                 <hr className="sidebarHr"/>
                 <ul className="sidebarFriendList">
                     <li className="sidebarFriend">
-                        <img className="sidebarFriendImg" src="/public/assests/images.jpg" alt=""/>
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
+                        <span className="sidebarFriendName">John Doe</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImg" src="/assests/images.jpg" alt=""/>
                         <span className="sidebarFriendName">John Doe</span>
                     </li>
                 </ul>
